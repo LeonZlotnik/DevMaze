@@ -1,0 +1,119 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 293.95 212.86" style="enable-background:new 0 0 293.95 212.86;" xml:space="preserve">
+<defs>
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;}
+
+	.logo {
+			stroke-dasharray: 2000;
+			stroke-dashoffset: 0;
+			-webkit-animation: dash 6s linear forwards;
+			-moz-animation: dash 6s linear forwards;
+			animation: dash 6s linear forwards;
+		}
+
+		@keyframes dash{
+			from{
+				stroke-dashoffset: 2000;
+			}
+			to{
+				stroke-dashoffset: 0;
+			}
+		}
+</style>
+</defs>
+<g id="Layer_1" class="st0 logo">
+	
+		<image style="display:inline;overflow:visible;" width="274" height="184" xlink:href="data:image/png;base64,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
+QmCC" transform="matrix(1 0 0 1 10.2767 13.0428)">
+	</image>
+</g>
+<g id="Layer_2">
+	<path class="st1 logo" d="M10.28,179.64v6.01l13.75,11.4h245.9l14.35-11.4v-6.01H172.31c0,0,0,5.63-8.63,6.38l-33.04-0.38
+		c0,0-6.38,1.88-7.88-6.01H10.28z"/>
+</g>
+<g id="Layer_3">
+	<path class="st1 logo" d="M36.04,21.96h222.62v157.67h9.76l-1.5-155.42c0,0,1.13-9.2-10.51-11.17H38.29c0,0-10.89,0.66-11.26,10.8v155.8
+		h7.51L36.04,21.96z"/>
+</g>
+<g id="Layer_4">
+	<polygon class="st1 logo" points="130.64,56.5 105.49,69.26 130.64,82.4 130.64,86.91 99.11,71.7 99.11,67.39 130.64,51.24 	"/>
+</g>
+<g id="Layer_5">
+	<path class="st2 logo" d="M162.55,83.15"/>
+	<polygon class="st1 logo" points="162.55,88.41 195.21,71.89 195.21,67.01 162.55,51.24 162.55,56.12 189.21,69.08 162.55,83.15 	"/>
+</g>
+<g id="Layer_6">
+	<polygon class="st1 logo" points="135.15,90.66 140.4,90.66 159.18,41.48 154.29,41.48 	"/>
+</g>
+<g id="Layer_7">
+	<rect x="103.24" y="105.04" class="st1 logo" width="27.41" height="6.27"/>
+</g>
+<g id="Layer_8">
+	<rect x="144.16" y="105.04" class="st1 logo" width="10.51" height="6.27"/>
+</g>
+<g id="Layer_9">
+	<rect x="166.31" y="105.04" class="st1 logo" width="10.89" height="6.27"/>
+</g>
+<g id="Layer_10">
+	<polygon class="st1 logo" points="103.24,115.44 103.24,120.7 150.92,120.7 149.41,115.44 	"/>
+</g>
+<g id="Layer_11">
+	<rect x="162.55" y="115.44" class="st1 logo" width="18.02" height="5.26"/>
+</g>
+<g id="Layer_12">
+	<rect x="108.12" y="124.82" class="st1 logo" width="18.96" height="5.26"/>
+</g>
+<g id="Layer_13">
+	<rect x="103.24" y="134.21" class="st1 logo" width="31.91" height="3.75"/>
+</g>
+<g id="Layer_14">
+	<polygon class="st1 logo" points="103.24,143.6 103.24,146.97 149.41,146.97 149.41,142.09 	"/>
+</g>
+<g id="Layer_15">
+	<rect x="162.55" y="142.09" class="st1 logo" width="18.02" height="4.88"/>
+</g>
+</svg>
