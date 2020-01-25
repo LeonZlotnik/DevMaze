@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Concepto</title>
+    <style>
+        .space{
+            margin: 7% 0;
+        }
+    </style>
 </head>
 <body>
     <?php include_once('navbar.php') ?>
@@ -53,5 +58,7 @@
         </div>
         <br>
     </section>
+    <div class="space"></div>
+    <?php include_once('footer.php')?>
 </body>
 </html>

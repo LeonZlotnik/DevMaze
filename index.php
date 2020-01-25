@@ -20,7 +20,7 @@
             text-shadow: 2px 2px #000000;
         }
 
-        p{
+        .text{
             text-shadow: 2px 2px #000000;
         }
     </style>
@@ -37,9 +37,10 @@
             <h1>Bienvenido a DevMaze</h1>
             <h3>El siguiente paso de tu negocio</h3>
             <br>
-            <p>Desarrollamos y reinventamos, brindamos las soluciones más ingerales a los negocios más demandados. La eficiencia en tu negocio es el asertijo, nosotros la solución. </p>
+            <p class="text-center text">Desarrollamos y reinventamos, brindamos las soluciones más ingerales a los negocios más demandados. La eficiencia en tu negocio es el asertijo, nosotros la solución. </p>
             <a href="" class="btn btn-primary">Refresh</a>
         </div>
     </section>
+    <?php include_once('footer.php')?>
 </body>
 </html>

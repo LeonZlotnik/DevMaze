@@ -44,6 +44,11 @@ header("Location: index.php?dev=1");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Contacto</title>
+    <style>
+        .space{
+            margin: 7% 0;
+        }
+    </style>
 </head>
 <body>
     <?php include_once('navbar.php') ?>
@@ -90,5 +95,7 @@ header("Location: index.php?dev=1");
        
     </form>
     </section>
+    <div class="space"></div>
+    <?php include_once('footer.php')?>
 </body>
 </html>

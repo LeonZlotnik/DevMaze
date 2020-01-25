@@ -10,15 +10,15 @@ if(isset($_POST['insert'])){
         if($pass == "EsistM@ze2020"){
             $error = "";
             $success = "Bienvenido!";
-            header("Location: DashboardDev&Admin.php");
+            header("Location: admin/DashboardDevAdmin20.php");
         }
         else{
-            $error = "Ups!! acceso denegado... Intente de nuevo";
+            $error = "<p class='alert alert-danger'>Ups!! acceso denegado... Intente de nuevo</p>";
             $success = "";
         }
     }
     else{
-        $error = "Ups!! acceso denegado... Intente de nuevo";
+        $error = "<p class='alert alert-danger'>Ups!! acceso denegado... Intente de nuevo</p>";
         $success = "";
     }
 }
@@ -37,8 +37,11 @@ if(isset($_POST['insert'])){
 <body>
     <?php include_once('navbar.php') ?>
 
-    <p class="error"><?php $error ?></p><p class="success"><?php $success ?></p>
-    <form method="POST" class="container">
+    <img class="container" src="" alt="">
+
+    <form method="POST" class="container" autocomplete="off">
+    <?php echo $error ?>
+    <br>
     <div class="form-group">
         <label for="exampleInputEmail1" class="h4">Nombre de Usuario</label>
         <input type="text" name="uname" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Introduzca nombre de usuario" require>
@@ -53,5 +56,7 @@ if(isset($_POST['insert'])){
     </form>
 </div>
 <br>
+<div class="space"></div>
+<?php include_once('footer.php')?>
 </body>
 </html>
